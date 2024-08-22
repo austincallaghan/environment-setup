@@ -1,0 +1,14 @@
+{
+  "name": "property-team-setup",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "18.14.1",
+    "yarn": "1.22.x"
+  },
+  "dependencies": {
+    "@clack/prompts": "^0.4.3"
+  }
+}
